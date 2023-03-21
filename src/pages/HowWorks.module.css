@@ -1,0 +1,1185 @@
+.plantImageBackTopAndroidAIcon {
+  position: absolute;
+  top: 123px;
+  left: 69px;
+  width: 371.74px;
+  height: 587.11px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.largeRectAroundDownFigures {
+  position: absolute;
+  top: 2302px;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(171, 171, 171, 0.08),
+    rgba(255, 255, 255, 0)
+  );
+  backdrop-filter: blur(35px);
+  width: 1440px;
+  height: 435px;
+  mix-blend-mode: normal;
+}
+.plantImageAndroidAppSecondIcon,
+.plantImageAndroidAppSecondIcon1 {
+  position: absolute;
+  top: 1063px;
+  left: 1051px;
+  width: 295.83px;
+  height: 467.22px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.plantImageAndroidAppSecondIcon1 {
+  top: 831px;
+  left: 842px;
+  width: 359.89px;
+  height: 504.03px;
+}
+.choosePlantRectangle {
+  position: absolute;
+  top: 487px;
+  left: 620px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(
+    180deg,
+    rgba(37, 76, 72, 0.5),
+    rgba(37, 76, 72, 0)
+  );
+  width: 177px;
+  height: 164px;
+  mix-blend-mode: normal;
+}
+.choosePlantRectangleImageIcon {
+  position: absolute;
+  top: 506px;
+  left: 671px;
+  width: 75px;
+  height: 125px;
+  object-fit: cover;
+}
+.androidAppOuterRectangleTo {
+  position: absolute;
+  top: 197px;
+  left: 168px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-400);
+  box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.3);
+  border: 8px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 611px;
+}
+.arTechnologyUsed {
+  margin: 0;
+}
+.arTechnologyUsedContainer,
+.dailyTasksThatContainer,
+.plantRecognitionAndContainer {
+  position: absolute;
+  top: 219px;
+  left: 620px;
+  font-size: var(--font-size-36xl);
+  line-height: 50px;
+  font-family: var(--font-sree-krushnadevaraya);
+  display: inline-block;
+  width: 612px;
+}
+.dailyTasksThatContainer,
+.plantRecognitionAndContainer {
+  top: 1063px;
+  left: 147px;
+}
+.plantRecognitionAndContainer {
+  top: 1702px;
+  left: 804px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  width: 414px;
+}
+.scanPlantRectangle02,
+.seeResultRectangle03 {
+  position: absolute;
+  top: 487px;
+  left: 849px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(
+    180deg,
+    rgba(37, 76, 72, 0.5),
+    rgba(37, 76, 72, 0)
+  );
+  width: 177px;
+  height: 164px;
+  mix-blend-mode: normal;
+}
+.seeResultRectangle03 {
+  left: 1066px;
+}
+.imageInsideScanRect02Icon,
+.seeResultsImageInsideRectIcon {
+  position: absolute;
+  top: 506px;
+  left: 900px;
+  width: 75px;
+  height: 125.04px;
+  object-fit: cover;
+}
+.seeResultsImageInsideRectIcon {
+  top: 533px;
+  left: 1080px;
+  width: 44px;
+  height: 71px;
+}
+.chooseAPlant,
+.scanAPlant,
+.seeTheResults {
+  position: absolute;
+  top: 628px;
+  left: 618px;
+  font-size: var(--font-size-9xl);
+  line-height: 80px;
+  font-family: var(--font-sree-krushnadevaraya);
+  display: inline-block;
+  width: 164px;
+  height: 70px;
+}
+.scanAPlant,
+.seeTheResults {
+  left: 849px;
+  width: 135px;
+}
+.seeTheResults {
+  left: 1066px;
+  width: 163px;
+}
+.readMoreRectDown {
+  position: absolute;
+  top: 2151px;
+  left: 804px;
+}
+.readMore,
+.readMoreRectTop {
+  position: absolute;
+  top: 1335px;
+  left: 147px;
+}
+.readMore {
+  width: 8.06%;
+  top: 79.03%;
+  left: 57.64%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.publicReviews,
+.readMore,
+.readMore2 {
+  height: 0.99%;
+  letter-spacing: -0.03em;
+}
+.readMore2 {
+  position: absolute;
+  width: 8.06%;
+  top: 49.21%;
+  left: 12.01%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.publicReviews {
+  width: 11.25%;
+  top: 93.28%;
+  left: 53.4%;
+  font-size: var(--font-size-3xl);
+}
+.div,
+.div1,
+.downloads,
+.m,
+.m1,
+.publicReviews,
+.scannedPlants,
+.taskClosed {
+  position: absolute;
+  font-weight: 800;
+  font-family: var(--font-noto-looped-thai);
+  text-align: center;
+  display: inline-block;
+}
+.taskClosed {
+  height: 0.99%;
+  width: 8.47%;
+  top: 93.28%;
+  left: 13.26%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.03em;
+}
+.div,
+.div1,
+.downloads,
+.m,
+.m1,
+.scannedPlants {
+  height: 2.85%;
+  width: 14.65%;
+  top: 90.14%;
+  left: 12.01%;
+  font-size: var(--font-size-31xl);
+}
+.div1,
+.downloads,
+.m,
+.m1,
+.scannedPlants {
+  left: 31.94%;
+}
+.div1,
+.downloads,
+.m1,
+.scannedPlants {
+  left: 51.81%;
+}
+.downloads,
+.m1,
+.scannedPlants {
+  left: 71.74%;
+}
+.downloads,
+.scannedPlants {
+  height: 0.99%;
+  width: 8.47%;
+  top: 93.28%;
+  left: 33.82%;
+  font-size: var(--font-size-3xl);
+  letter-spacing: -0.03em;
+}
+.scannedPlants {
+  width: 11.74%;
+  left: 73.61%;
+}
+.taskClosedRectIcon {
+  position: absolute;
+  top: 2416px;
+  left: 191px;
+  border-radius: var(--br-5xs);
+  width: 42.75px;
+  height: 42.75px;
+}
+.plantVectorIconBehindSecon {
+  position: absolute;
+  top: 971px;
+  left: 1147.27px;
+  width: 358.7px;
+  height: 523.82px;
+  transform: rotate(24.51deg);
+  transform-origin: 0 0;
+  mix-blend-mode: normal;
+}
+.secondAndroidAppOuterRect {
+  position: absolute;
+  top: 922px;
+  left: 914px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-400);
+  box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.3);
+  border: 8px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 611px;
+}
+.hiUsama {
+  position: absolute;
+  top: 929px;
+  left: 953px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.02em;
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: inline-block;
+  width: 115px;
+  height: 53px;
+}
+.circleAroundImageIcon,
+.myImageInsideAndroidIcon {
+  position: absolute;
+  height: 83.33%;
+  width: 83.33%;
+  top: 8.33%;
+  right: 8.33%;
+  bottom: 8.33%;
+  left: 8.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.myImageInsideAndroidIcon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  object-fit: cover;
+}
+.rectangleAroundMyImage {
+  position: absolute;
+  top: 947px;
+  left: 1174px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.secondAndroidAppLine01 {
+  position: absolute;
+  top: 1152px;
+  left: 957px;
+  border-top: 2px solid var(--color-antiquewhite-100);
+  box-sizing: border-box;
+  width: 242px;
+  height: 2px;
+}
+.secondAndroidAppLine02Icon,
+.secondAndroidAppLine03Icon {
+  position: absolute;
+  top: 1226.5px;
+  left: 948px;
+  width: 260px;
+  height: 1.53px;
+}
+.secondAndroidAppLine03Icon {
+  top: 1292px;
+}
+.downloadsVectorRectangleIcon,
+.publicReviewsVectorRectangl,
+.scannedPlantVectorRectangle {
+  position: absolute;
+  top: 2416px;
+  left: 492px;
+  border-radius: var(--br-5xs);
+  width: 42.75px;
+  height: 42.75px;
+}
+.publicReviewsVectorRectangl,
+.scannedPlantVectorRectangle {
+  left: 775px;
+  background-color: var(--color-darkslategray-200);
+}
+.scannedPlantVectorRectangle {
+  left: 1066px;
+}
+.downloadsTopVectorIcon {
+  position: absolute;
+  height: 1.02%;
+  width: 1.5%;
+  top: 88.52%;
+  right: 63.59%;
+  bottom: 10.46%;
+  left: 34.91%;
+}
+.publicReviewsTopVectorIcon {
+  position: absolute;
+  height: 0.8%;
+  width: 1.57%;
+  top: 88.65%;
+  right: 43.9%;
+  bottom: 10.56%;
+  left: 54.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scannedPlantsTopVectorIcon {
+  position: absolute;
+  height: 0.77%;
+  width: 1.46%;
+  top: 88.64%;
+  right: 23.75%;
+  bottom: 10.6%;
+  left: 74.79%;
+}
+.imageInsideTopAndroidAppliIcon {
+  position: absolute;
+  top: 205px;
+  left: 176px;
+  border-radius: var(--br-16xl) var(--br-16xl) 0 0;
+  width: 312px;
+  height: 537px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.backIconTopAndroidApp,
+.backIconTopRect03 {
+  position: absolute;
+  top: 239px;
+  left: 194px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.backIconTopRect03 {
+  top: 515px;
+  left: 1097px;
+}
+.diagnosisResult,
+.plantA,
+.runDiagnosis {
+  position: absolute;
+  top: 202px;
+  left: 225px;
+  font-size: var(--font-size-mini);
+  line-height: 80px;
+  font-family: var(--font-sree-krushnadevaraya);
+  display: inline-block;
+  width: 164px;
+  height: 70px;
+}
+.diagnosisResult,
+.plantA {
+  top: 478px;
+  left: 1117px;
+  width: 95px;
+}
+.plantA {
+  top: 524px;
+  left: 1136px;
+}
+.scanAPalntScannerIcon,
+.scannerIconInsideTopAndroi {
+  position: absolute;
+  height: 8.7%;
+  width: 17.43%;
+  top: 10.16%;
+  right: 68.26%;
+  bottom: 81.15%;
+  left: 14.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.scanAPalntScannerIcon {
+  height: 4.38%;
+  width: 8.75%;
+  top: 18.6%;
+  right: 30.49%;
+  bottom: 77.02%;
+  left: 60.76%;
+}
+.rectInsideScannerTopAndroi {
+  position: absolute;
+  top: 397px;
+  left: 222px;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0.2),
+    rgba(217, 217, 217, 0.02)
+  );
+  width: 219px;
+  height: 103px;
+}
+.rectangleInsideScanPlantRe {
+  position: absolute;
+  top: 569px;
+  left: 883px;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0.2),
+    rgba(217, 217, 217, 0)
+  );
+  width: 110px;
+  height: 53px;
+}
+.aDailyToDoContainer,
+.inAdditionToContainer,
+.ourApplicationUsesContainer {
+  position: absolute;
+  width: 49.31%;
+  top: 13.04%;
+  left: 42.92%;
+  font-size: var(--font-size-lgi);
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-500);
+  display: inline-block;
+}
+.aDailyToDoContainer,
+.inAdditionToContainer {
+  top: 43.99%;
+  left: 10.21%;
+}
+.inAdditionToContainer {
+  top: 66.57%;
+  left: 55.83%;
+}
+.genusOfAboutContainer,
+.placeTheScannerContainer,
+.seeWhatYouContainer,
+.selectThePlantContainer {
+  position: absolute;
+  width: 13.75%;
+  top: 25.28%;
+  left: 42.92%;
+  font-size: var(--font-size-mini);
+  letter-spacing: 0.05em;
+  line-height: 25px;
+  color: var(--color-antiquewhite-600);
+  display: inline-block;
+}
+.genusOfAboutContainer,
+.placeTheScannerContainer,
+.seeWhatYouContainer {
+  left: 58.96%;
+}
+.genusOfAboutContainer,
+.seeWhatYouContainer {
+  left: 74.03%;
+}
+.genusOfAboutContainer {
+  width: 6.46%;
+  top: 21.26%;
+  left: 78.89%;
+  font-size: var(--font-size-xs);
+  line-height: 15px;
+}
+.pepperFaceLargeRectIcon {
+  position: absolute;
+  top: 980px;
+  left: 763px;
+  width: 495px;
+  height: 179px;
+}
+.fittoniaIconVectorOutsideR,
+.monsteraScanIconRect {
+  position: absolute;
+  top: 1246px;
+  left: 1178px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.monsteraScanIconRect {
+  top: 1317px;
+}
+.cactusRectangleLargeIcon {
+  position: absolute;
+  top: 1108px;
+  left: 891px;
+  width: 495px;
+  height: 179px;
+}
+.changeSoilRectangleIcon,
+.fittoniaRectangleLargeIcon {
+  position: absolute;
+  top: 1348px;
+  left: 763px;
+  width: 495px;
+  height: 179px;
+}
+.changeSoilRectangleIcon {
+  top: 1885px;
+  left: 251px;
+  width: 476px;
+}
+.pepperFaceImageIcon {
+  position: absolute;
+  top: 1016px;
+  left: 835px;
+  width: 44px;
+  height: 67px;
+  object-fit: cover;
+}
+.cactus,
+.fittonia,
+.pepperFace {
+  position: absolute;
+  top: 1003px;
+  left: 922px;
+  font-size: var(--font-size-6xl);
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: inline-block;
+  width: 115px;
+}
+.cactus,
+.fittonia {
+  top: 1131px;
+  left: 1046px;
+}
+.fittonia {
+  top: 1371px;
+  left: 918px;
+}
+.checkTheLevel,
+.earthPhIndicator,
+.lightOnWindow,
+.pour150Ml,
+.pour500Ml,
+.waterLevelIndicator {
+  position: absolute;
+  width: 7.99%;
+  top: 38.47%;
+  left: 64.03%;
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+  display: inline-block;
+}
+.checkTheLevel,
+.earthPhIndicator,
+.lightOnWindow,
+.pour150Ml,
+.waterLevelIndicator {
+  top: 43.15%;
+  left: 72.64%;
+}
+.checkTheLevel,
+.earthPhIndicator,
+.lightOnWindow,
+.waterLevelIndicator {
+  width: 9.51%;
+  top: 51.92%;
+  left: 63.75%;
+}
+.checkTheLevel,
+.earthPhIndicator,
+.waterLevelIndicator {
+  top: 72.01%;
+  left: 59.51%;
+}
+.checkTheLevel,
+.earthPhIndicator {
+  width: 12.36%;
+  top: 73.91%;
+}
+.checkTheLevel {
+  width: 13.13%;
+  top: 75.67%;
+}
+.cactusWaterIconRectangle,
+.pepperRectTickAroundIcon {
+  position: absolute;
+  top: 1026px;
+  left: 1139px;
+  width: 46px;
+  height: 46px;
+  overflow: hidden;
+}
+.cactusWaterIconRectangle {
+  height: 1.5%;
+  width: 2.85%;
+  top: 42.27%;
+  right: 8.82%;
+  bottom: 56.23%;
+  left: 88.33%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.cactusWaterIconOutside,
+.fittoniaEllipseOutsideSunIIcon,
+.fittoniaSunIcon {
+  position: absolute;
+  height: 0.84%;
+  width: 1.6%;
+  top: 42.6%;
+  right: 9.44%;
+  bottom: 56.56%;
+  left: 88.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fittoniaEllipseOutsideSunIIcon,
+.fittoniaSunIcon {
+  height: 1.5%;
+  width: 2.85%;
+  top: 51.04%;
+  right: 17.71%;
+  bottom: 47.46%;
+  left: 79.44%;
+}
+.fittoniaSunIcon {
+  height: 0.88%;
+  width: 1.67%;
+  top: 51.37%;
+  right: 18.26%;
+  bottom: 47.75%;
+  left: 80.07%;
+}
+.cactusImageSecondAndroidIcon {
+  position: absolute;
+  top: 1149px;
+  left: 963px;
+  width: 35px;
+  height: 57px;
+  object-fit: cover;
+}
+.fittoniaImageSecondAndroidIcon,
+.fittoniaImageSecondAndroidIcon1 {
+  position: absolute;
+  top: 1396px;
+  left: 835px;
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.fittoniaImageSecondAndroidIcon1 {
+  top: 1242px;
+  left: 957px;
+  width: 31px;
+  height: 38px;
+}
+.fittonia1,
+.monstera {
+  position: absolute;
+  top: 1213px;
+  left: 1007px;
+  font-size: var(--font-size-mini);
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: inline-block;
+  width: 115px;
+}
+.monstera {
+  top: 1284px;
+}
+.changeTheFlower,
+.reScanThePlant {
+  position: absolute;
+  height: 0.66%;
+  width: 7.99%;
+  top: 45.85%;
+  left: 69.93%;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+  display: inline-block;
+}
+.reScanThePlant {
+  top: 48.45%;
+}
+.monsteraImageSecondAndroidIcon {
+  position: absolute;
+  top: 1304px;
+  left: 941px;
+  width: 52px;
+  height: 55px;
+  object-fit: cover;
+}
+.topAndroidScanRectangle {
+  position: absolute;
+  top: 753px;
+  left: 331px;
+}
+.secondAndroidProfileRectang {
+  position: absolute;
+  top: 1475px;
+  left: 947px;
+}
+.secondAndroidProfileIcon,
+.topAndroidHomeIcon,
+.topAndroidProfileIcon {
+  position: absolute;
+  height: 0.55%;
+  width: 1.04%;
+  top: 27.66%;
+  right: 85%;
+  bottom: 71.79%;
+  left: 13.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.secondAndroidProfileIcon,
+.topAndroidHomeIcon {
+  top: 54.11%;
+  right: 32.5%;
+  bottom: 45.34%;
+  left: 66.46%;
+}
+.topAndroidHomeIcon {
+  width: 1.29%;
+  top: 27.62%;
+  right: 79.54%;
+  bottom: 71.83%;
+  left: 19.17%;
+}
+.topAndroidScanIconInsideE {
+  position: absolute;
+  height: 0.51%;
+  width: 0.97%;
+  top: 27.69%;
+  right: 75%;
+  bottom: 71.79%;
+  left: 24.03%;
+}
+.profile,
+.scan {
+  position: absolute;
+  height: 0.44%;
+  width: 1.74%;
+  top: 27.8%;
+  left: 25.56%;
+  font-size: var(--font-size-3xs);
+  letter-spacing: 0.05em;
+  display: inline-block;
+  text-align: center;
+}
+.profile {
+  width: 2.5%;
+  top: 54.18%;
+  left: 67.71%;
+}
+.secondAndroidHomeVector02Icon,
+.topAndroidRightVectorIcon {
+  position: absolute;
+  height: 0.58%;
+  width: 1.11%;
+  top: 27.62%;
+  right: 67.85%;
+  bottom: 71.79%;
+  left: 31.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.secondAndroidHomeVector02Icon {
+  height: 0.55%;
+  width: 1.29%;
+  top: 54.11%;
+  right: 25.1%;
+  bottom: 45.34%;
+  left: 73.61%;
+}
+.secondAndroidRightVector03 {
+  position: absolute;
+  height: 0.51%;
+  width: 0.97%;
+  top: 54.15%;
+  right: 20.63%;
+  bottom: 45.34%;
+  left: 78.4%;
+}
+.secondAndroidRightVector04Icon {
+  position: absolute;
+  height: 0.58%;
+  width: 1.11%;
+  top: 54.07%;
+  right: 16.04%;
+  bottom: 45.34%;
+  left: 82.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.airHumidityEllipseIcon,
+.airHumidityVectorInsideEllIcon,
+.earthPhEllipseIcon,
+.groupIcon,
+.waterLevelEllipseIcon {
+  position: absolute;
+  height: 1.13%;
+  width: 2.15%;
+  top: 73.91%;
+  right: 42.01%;
+  bottom: 24.95%;
+  left: 55.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.airHumidityEllipseIcon,
+.airHumidityVectorInsideEllIcon,
+.groupIcon,
+.waterLevelEllipseIcon {
+  top: 75.78%;
+  bottom: 23.09%;
+}
+.airHumidityVectorInsideEllIcon,
+.groupIcon,
+.waterLevelEllipseIcon {
+  top: 72.05%;
+  bottom: 26.82%;
+}
+.airHumidityVectorInsideEllIcon,
+.groupIcon {
+  height: 0.37%;
+  width: 0.83%;
+  top: 76.18%;
+  right: 42.64%;
+  bottom: 23.46%;
+  left: 56.53%;
+}
+.groupIcon {
+  height: 0.57%;
+  width: 0.87%;
+  top: 72.31%;
+  right: 42.66%;
+  bottom: 27.12%;
+  left: 56.48%;
+}
+.earthPhInsideEllipseVector {
+  position: absolute;
+  height: 0.37%;
+  width: 0.69%;
+  top: 74.31%;
+  right: 42.78%;
+  bottom: 25.32%;
+  left: 56.53%;
+}
+.imageAlongMoreSoilHumidityIcon {
+  position: absolute;
+  top: 1440px;
+  left: 13px;
+  width: 488px;
+  height: 866px;
+  object-fit: cover;
+}
+.moreWaterRectIcon {
+  position: absolute;
+  top: 1769px;
+  left: 337px;
+  width: 476px;
+  height: 179px;
+}
+.changeSoilIconInsideEllips,
+.ellipseChangeSoilIcon,
+.groupIcon1,
+.moreWaterEllipseIcon {
+  position: absolute;
+  height: 1.13%;
+  width: 2.15%;
+  top: 66.61%;
+  right: 69.31%;
+  bottom: 32.26%;
+  left: 28.54%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.changeSoilIconInsideEllips,
+.ellipseChangeSoilIcon,
+.groupIcon1 {
+  height: 0.57%;
+  width: 0.87%;
+  top: 66.87%;
+  right: 69.95%;
+  bottom: 32.56%;
+  left: 29.18%;
+}
+.changeSoilIconInsideEllips,
+.ellipseChangeSoilIcon {
+  height: 1.13%;
+  width: 2.15%;
+  top: 70.84%;
+  right: 75.28%;
+  bottom: 28.02%;
+  left: 22.57%;
+}
+.changeSoilIconInsideEllips {
+  height: 0.37%;
+  width: 0.69%;
+  top: 71.25%;
+  right: 76.04%;
+  bottom: 28.39%;
+  left: 23.26%;
+}
+.needMoreWater,
+.theSoilIs {
+  position: absolute;
+  top: 1816px;
+  left: 473px;
+  font-size: var(--font-size-xl);
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: flex;
+  align-items: center;
+  width: 137px;
+  height: 16px;
+}
+.theSoilIs {
+  top: 1929px;
+  left: 387px;
+  width: 146px;
+  height: 17px;
+}
+.pour250Ml {
+  height: 0.4%;
+  width: 9.51%;
+  top: 67.59%;
+  left: 32.85%;
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+}
+.changeTheSoil,
+.div2,
+.ph,
+.pour250Ml {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.changeTheSoil {
+  height: 0.55%;
+  width: 9.51%;
+  top: 71.76%;
+  left: 26.88%;
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+}
+.div2,
+.ph {
+  height: 1.1%;
+  width: 3.61%;
+  top: 66.64%;
+  left: 47.71%;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-noto-looped-thai);
+  text-align: center;
+  justify-content: center;
+}
+.ph {
+  top: 70.88%;
+  left: 41.74%;
+}
+.changeSoilBlackLine,
+.changeSoilWhiteLine,
+.needMoreWaterBlackLine,
+.needMoreWaterWhiteLine {
+  position: absolute;
+  top: 1841.5px;
+  left: 470.5px;
+  border-top: 5px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 181px;
+  height: 5px;
+}
+.changeSoilBlackLine,
+.changeSoilWhiteLine,
+.needMoreWaterWhiteLine {
+  top: 1955.5px;
+  left: 384.5px;
+}
+.changeSoilWhiteLine,
+.needMoreWaterWhiteLine {
+  top: 1841.5px;
+  left: 470.5px;
+  border-top: 5px solid var(--color-antiquewhite-100);
+  width: 118px;
+}
+.changeSoilWhiteLine {
+  top: 1955.5px;
+  left: 384.5px;
+  width: 100px;
+}
+.humidityRectangleLargeIcon {
+  position: absolute;
+  top: 2001px;
+  left: 164px;
+  width: 476px;
+  height: 179px;
+}
+.humidityEllipseAroundVectorIcon,
+.vectoreInsideHumidityElllipIcon {
+  position: absolute;
+  height: 1.13%;
+  width: 2.15%;
+  top: 75.08%;
+  right: 81.32%;
+  bottom: 23.79%;
+  left: 16.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectoreInsideHumidityElllipIcon {
+  height: 0.37%;
+  width: 0.83%;
+  top: 75.48%;
+  right: 81.94%;
+  bottom: 24.15%;
+  left: 17.22%;
+}
+.humidity {
+  top: 2049px;
+  left: 300px;
+  font-size: var(--font-size-xl);
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  width: 115px;
+  height: 12px;
+}
+.div3,
+.humidity,
+.useAnAir {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.useAnAir {
+  height: 0.51%;
+  width: 9.51%;
+  top: 75.96%;
+  left: 20.83%;
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+}
+.div3 {
+  height: 1.1%;
+  width: 3.61%;
+  top: 75.12%;
+  left: 35.69%;
+  font-size: var(--font-size-lg);
+  font-weight: 500;
+  font-family: var(--font-noto-looped-thai);
+  text-align: center;
+  justify-content: center;
+}
+.humidityLineBlack,
+.humidityLineWhite {
+  position: absolute;
+  top: 2070.5px;
+  left: 297.5px;
+  border-top: 5px solid var(--color-darkslategray-200);
+  box-sizing: border-box;
+  width: 181px;
+  height: 5px;
+}
+.humidityLineWhite {
+  border-top: 5px solid var(--color-antiquewhite-100);
+  width: 53px;
+}
+.taskCloseTickIcon {
+  position: absolute;
+  height: 0.58%;
+  width: 1.46%;
+  top: 88.75%;
+  right: 84.58%;
+  bottom: 10.67%;
+  left: 13.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.howworks {
+  position: relative;
+  background-color: var(--color-darkslategray-200);
+  width: 100%;
+  height: 2737px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-smi);
+  color: var(--color-antiquewhite-100);
+  font-family: var(--font-almarai);
+}

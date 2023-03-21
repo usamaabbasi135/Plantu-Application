@@ -1,0 +1,757 @@
+.plantImageRightBottomIcon {
+  position: absolute;
+  top: 708.97px;
+  left: 1186.06px;
+  width: 253.94px;
+  height: 315.03px;
+  object-fit: cover;
+  mix-blend-mode: luminosity;
+}
+.firstAndroidAppOuterRect {
+  position: absolute;
+  top: 181px;
+  left: 94px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-400);
+  box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.3);
+  border: 8px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 611px;
+}
+.dailyPlants,
+.hiUsama,
+.myPlants {
+  position: absolute;
+  top: 289px;
+  left: 130px;
+  font-size: var(--font-size-6xl);
+  line-height: 80px;
+  font-family: var(--font-sree-krushnadevaraya);
+  display: inline-block;
+  width: 129px;
+}
+.hiUsama,
+.myPlants {
+  top: 543px;
+  width: 115px;
+  height: 70px;
+}
+.hiUsama {
+  top: 184px;
+  height: 56px;
+}
+.searchOuterRectFirstAppIcon {
+  position: absolute;
+  top: 269px;
+  left: 126px;
+  border-radius: var(--br-3xs);
+  width: 264px;
+  height: 40px;
+}
+.search,
+.seeAll,
+.seeAll1 {
+  position: absolute;
+  height: 1.76%;
+  width: 3.82%;
+  top: 27.05%;
+  left: 9.24%;
+  font-size: var(--font-size-sm);
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-family: var(--font-noto-looped-thai);
+  text-align: center;
+  display: inline-block;
+}
+.seeAll,
+.seeAll1 {
+  width: 3.19%;
+  top: 31.93%;
+  left: 23.47%;
+  font-size: var(--font-size-xs);
+  color: var(--color-antiquewhite-500);
+}
+.seeAll1 {
+  top: 56.74%;
+  left: 23.26%;
+}
+.circleAroundImageFirstAppIcon,
+.myImageInsideAndroidApp01Icon,
+.searchIconInsideFirstApp {
+  position: absolute;
+  height: 1.56%;
+  width: 1.11%;
+  top: 27.44%;
+  right: 73.89%;
+  bottom: 71%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.circleAroundImageFirstAppIcon,
+.myImageInsideAndroidApp01Icon {
+  height: 83.33%;
+  width: 83.33%;
+  top: 8.33%;
+  right: 8.33%;
+  bottom: 8.33%;
+  left: 8.33%;
+}
+.myImageInsideAndroidApp01Icon {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  object-fit: cover;
+}
+.rectangleAroundMyImageFirs {
+  position: absolute;
+  top: 206px;
+  left: 337px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.firstLineInsideFirstApp {
+  position: absolute;
+  top: 411.5px;
+  left: 137.5px;
+  border-top: 1px solid var(--color-antiquewhite-500);
+  box-sizing: border-box;
+  width: 241px;
+  height: 1px;
+}
+.seeAllAndroidFirstAppImag,
+.seeAllAndroidFirstAppImag1 {
+  position: absolute;
+  top: 615px;
+  left: 266px;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(180.85deg, #405b57, #204a43);
+  box-shadow: 20px 20px 35px rgba(0, 0, 0, 0.1);
+  width: 115px;
+  height: 88px;
+  mix-blend-mode: normal;
+}
+.seeAllAndroidFirstAppImag1 {
+  left: 134px;
+}
+.seeAllAndroidFirstAppHearIcon,
+.seeAllAndroidFirstAppHearIcon1 {
+  position: absolute;
+  height: 1.07%;
+  width: 0.9%;
+  top: 61.33%;
+  right: 83.61%;
+  bottom: 37.6%;
+  left: 15.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.seeAllAndroidFirstAppHearIcon1 {
+  right: 74.44%;
+  left: 24.65%;
+}
+.androidFirstAppSeeAllSecoIcon,
+.firstAndroidPepperFaceImagIcon {
+  position: absolute;
+  top: 351px;
+  left: 133px;
+  width: 44px;
+  height: 56px;
+  object-fit: cover;
+}
+.androidFirstAppSeeAllSecoIcon {
+  top: 611px;
+  left: 292px;
+  width: 63px;
+  height: 95px;
+  mix-blend-mode: normal;
+}
+.androidFirstAppSeeAllFirsIcon {
+  position: absolute;
+  top: 620px;
+  left: 167px;
+  width: 50px;
+  height: 78px;
+  object-fit: cover;
+}
+.secondLineInsideFirstApp {
+  position: absolute;
+  top: 478px;
+  left: 137.5px;
+  border-top: 1px solid var(--color-antiquewhite-500);
+  box-sizing: border-box;
+  width: 241px;
+  height: 1px;
+}
+.plantImageInsideFirstAppIcon {
+  position: absolute;
+  top: 430px;
+  left: 362px;
+  width: 77.89px;
+  height: 95px;
+  object-fit: cover;
+}
+.fittonia,
+.pepperFace,
+.pepperFace1 {
+  position: absolute;
+  top: 334px;
+  left: 188px;
+  font-size: var(--font-size-mini);
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: inline-block;
+  width: 115px;
+}
+.fittonia,
+.pepperFace1 {
+  top: 400px;
+  left: 189px;
+}
+.fittonia {
+  top: 465px;
+}
+.lightOnWindow,
+.pour500Ml,
+.pour500Ml1 {
+  position: absolute;
+  height: 1.76%;
+  width: 7.99%;
+  top: 36.72%;
+  left: 13.06%;
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+  display: inline-block;
+}
+.lightOnWindow,
+.pour500Ml1 {
+  top: 43.16%;
+  left: 13.13%;
+}
+.lightOnWindow {
+  top: 49.51%;
+}
+.pepperRectTickAroundFirstIcon {
+  position: absolute;
+  top: 368px;
+  left: 356px;
+  width: 28px;
+  height: 28px;
+  overflow: hidden;
+}
+.fittoniaImageInsideFirstAnIcon {
+  position: absolute;
+  top: 495px;
+  left: 133px;
+  width: 38px;
+  height: 38px;
+  object-fit: cover;
+}
+.firstAndroidHomeLeftVectorIcon,
+.firstAndroidRightScannerVeIcon,
+.firstAndroidRightVector04Icon {
+  position: absolute;
+  height: 1.47%;
+  width: 1.29%;
+  top: 72.27%;
+  right: 82.04%;
+  bottom: 26.26%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.firstAndroidRightScannerVeIcon,
+.firstAndroidRightVector04Icon {
+  height: 1.37%;
+  width: 0.97%;
+  top: 72.46%;
+  right: 77.57%;
+  bottom: 26.17%;
+  left: 21.46%;
+}
+.firstAndroidRightVector04Icon {
+  height: 1.56%;
+  width: 1.11%;
+  top: 72.27%;
+  right: 72.99%;
+  left: 25.9%;
+}
+.secondAndroidAppOuterRecta {
+  position: absolute;
+  top: 186px;
+  left: 533px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-400);
+  box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.3);
+  border: 8px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 611px;
+}
+.imageInsideSecondAndroidApIcon {
+  position: absolute;
+  top: 194px;
+  left: 541px;
+  border-radius: var(--br-16xl) var(--br-16xl) 0 0;
+  width: 312px;
+  height: 537px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.backIconSecondAndroidApp {
+  position: absolute;
+  top: 228px;
+  left: 559px;
+  width: 14px;
+  height: 14px;
+  overflow: hidden;
+}
+.runDiagnosis {
+  position: absolute;
+  top: 191px;
+  left: 590px;
+  font-size: var(--font-size-mini);
+  line-height: 80px;
+  font-family: var(--font-sree-krushnadevaraya);
+  display: inline-block;
+  width: 164px;
+  height: 70px;
+}
+.scannerIconInsideSecondAnd {
+  position: absolute;
+  height: 23.24%;
+  width: 17.43%;
+  top: 26.07%;
+  right: 42.92%;
+  bottom: 50.68%;
+  left: 39.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectInsideScannerSecondAnd {
+  position: absolute;
+  top: 386px;
+  left: 587px;
+  background: linear-gradient(
+    180deg,
+    rgba(217, 217, 217, 0.2),
+    rgba(217, 217, 217, 0.02)
+  );
+  width: 219px;
+  height: 103px;
+}
+.secondAndroidRightVector03Icon {
+  position: absolute;
+  top: 742px;
+  left: 696px;
+  border-radius: var(--br-6xl);
+  width: 74px;
+  height: 28px;
+}
+.secondAndroidProfileLeftVeIcon {
+  position: absolute;
+  height: 1.46%;
+  width: 1.04%;
+  top: 72.85%;
+  right: 59.65%;
+  bottom: 25.68%;
+  left: 39.31%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.secondAndroidHomeLeftVectoIcon,
+.secondAndroidRightVector03Icon1 {
+  position: absolute;
+  height: 1.47%;
+  width: 1.29%;
+  top: 72.75%;
+  right: 54.19%;
+  bottom: 25.78%;
+  left: 44.51%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.secondAndroidRightVector03Icon1 {
+  height: 1.37%;
+  width: 0.97%;
+  top: 72.95%;
+  right: 49.65%;
+  bottom: 25.68%;
+  left: 49.38%;
+}
+.scan {
+  position: absolute;
+  height: 1.17%;
+  width: 1.74%;
+  top: 73.24%;
+  left: 50.9%;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  text-align: center;
+}
+.secondAndroidRightVector04Icon {
+  position: absolute;
+  height: 1.56%;
+  width: 1.11%;
+  top: 72.75%;
+  right: 42.5%;
+  bottom: 25.68%;
+  left: 56.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thirdAndroidAppOuterRect {
+  position: absolute;
+  top: 187px;
+  left: 957px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-darkslategray-400);
+  box-shadow: 20px 20px 100px rgba(0, 0, 0, 0.3);
+  border: 8px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 328px;
+  height: 611px;
+}
+.hiUsama1 {
+  position: absolute;
+  top: 194px;
+  left: 996px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.02em;
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: inline-block;
+  width: 115px;
+  height: 53px;
+}
+.rectangleAroundMyImage {
+  position: absolute;
+  top: 212px;
+  left: 1217px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.thirdAndroidAppLine01 {
+  position: absolute;
+  top: 417px;
+  left: 1000px;
+  border-top: 2px solid var(--color-antiquewhite-100);
+  box-sizing: border-box;
+  width: 242px;
+  height: 2px;
+}
+.thirdAndroidAppLine02Icon,
+.thirdAndroidAppLine03Icon {
+  position: absolute;
+  top: 491.5px;
+  left: 991px;
+  width: 260px;
+  height: 1.53px;
+}
+.thirdAndroidAppLine03Icon {
+  top: 557px;
+}
+.pepperFaceLargeRectIcon {
+  position: absolute;
+  top: 245px;
+  left: 806px;
+  width: 495px;
+  height: 179px;
+}
+.fittoniaIconVectorOutsideR,
+.monsteraScanIconRect {
+  position: absolute;
+  top: 511px;
+  left: 1221px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.monsteraScanIconRect {
+  top: 582px;
+}
+.cactusRectangleLargeIcon,
+.fittoniaRectangleLargeIcon {
+  position: absolute;
+  top: 373px;
+  left: 934px;
+  width: 495px;
+  height: 179px;
+}
+.fittoniaRectangleLargeIcon {
+  top: 613px;
+  left: 806px;
+}
+.pepperFaceImageIcon {
+  position: absolute;
+  top: 281px;
+  left: 878px;
+  width: 44px;
+  height: 67px;
+  object-fit: cover;
+}
+.cactus,
+.fittonia1,
+.pepperFace2 {
+  position: absolute;
+  top: 268px;
+  left: 965px;
+  font-size: var(--font-size-6xl);
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: inline-block;
+  width: 115px;
+}
+.cactus,
+.fittonia1 {
+  top: 396px;
+  left: 1089px;
+}
+.fittonia1 {
+  top: 636px;
+  left: 961px;
+}
+.lightOnWindow1,
+.pour150Ml,
+.pour500Ml2 {
+  position: absolute;
+  width: 7.99%;
+  top: 31.05%;
+  left: 67.01%;
+  font-size: var(--font-size-smi);
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+  display: inline-block;
+}
+.lightOnWindow1,
+.pour150Ml {
+  top: 43.55%;
+  left: 75.63%;
+}
+.lightOnWindow1 {
+  width: 9.51%;
+  top: 66.99%;
+  left: 66.74%;
+}
+.cactusWaterIconEllipse,
+.pepperRectTickAroundAndroiIcon {
+  position: absolute;
+  top: 291px;
+  left: 1182px;
+  width: 46px;
+  height: 46px;
+  overflow: hidden;
+}
+.cactusWaterIconEllipse {
+  height: 4%;
+  width: 2.85%;
+  top: 41.21%;
+  right: 5.83%;
+  bottom: 54.79%;
+  left: 91.32%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.cactusWaterIconRectangle,
+.fittoniaEllipseThirdAndroidIcon,
+.fittoniaSunIconThirdAndroi {
+  position: absolute;
+  height: 2.25%;
+  width: 1.6%;
+  top: 42.09%;
+  right: 6.46%;
+  bottom: 55.66%;
+  left: 91.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fittoniaEllipseThirdAndroidIcon,
+.fittoniaSunIconThirdAndroi {
+  height: 4%;
+  width: 2.85%;
+  top: 64.65%;
+  right: 14.72%;
+  bottom: 31.35%;
+  left: 82.43%;
+}
+.fittoniaSunIconThirdAndroi {
+  height: 2.34%;
+  width: 1.67%;
+  top: 65.53%;
+  right: 15.28%;
+  bottom: 32.13%;
+  left: 83.06%;
+}
+.cactusImageThirdAndroidIcon {
+  position: absolute;
+  top: 414px;
+  left: 1006px;
+  width: 35px;
+  height: 57px;
+  object-fit: cover;
+}
+.fittoniaImageThirdAndroid0Icon,
+.pngkitPottedPlantPng647131Icon {
+  position: absolute;
+  top: 661px;
+  left: 878px;
+  width: 43px;
+  height: 43px;
+  object-fit: cover;
+}
+.pngkitPottedPlantPng647131Icon {
+  top: 507px;
+  left: 1000px;
+  width: 31px;
+  height: 38px;
+}
+.fittonia2,
+.monstera {
+  position: absolute;
+  top: 478px;
+  left: 1050px;
+  font-size: var(--font-size-mini);
+  line-height: 80px;
+  font-weight: 600;
+  font-family: var(--font-markazi-text);
+  display: inline-block;
+  width: 115px;
+}
+.monstera {
+  top: 549px;
+}
+.changeTheFlower,
+.reScanThePlant {
+  position: absolute;
+  height: 1.76%;
+  width: 7.99%;
+  top: 50.78%;
+  left: 72.92%;
+  letter-spacing: 0.05em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+  display: inline-block;
+}
+.reScanThePlant {
+  top: 57.71%;
+}
+.firstAndroidPepperFaceImagIcon1,
+.thirdAndroidMonsteraImageIcon {
+  position: absolute;
+  top: 569px;
+  left: 984px;
+  width: 52px;
+  height: 55px;
+  object-fit: cover;
+}
+.firstAndroidPepperFaceImagIcon1 {
+  top: 415px;
+  left: 128px;
+  width: 45px;
+}
+.firstAndroidProfileLeftRecIcon,
+.thirdAndroidProfileLeftRecIcon {
+  position: absolute;
+  top: 740px;
+  left: 990px;
+  border-radius: var(--br-6xl);
+  width: 74px;
+  height: 28px;
+}
+.firstAndroidProfileLeftRecIcon {
+  top: 735px;
+  left: 127px;
+}
+.firstAndroidProfileLeftVecIcon,
+.thirdAndroidProfileLeftVecIcon {
+  position: absolute;
+  height: 1.46%;
+  width: 1.04%;
+  top: 72.85%;
+  right: 29.51%;
+  bottom: 25.68%;
+  left: 69.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.firstAndroidProfileLeftVecIcon {
+  top: 72.36%;
+  right: 89.44%;
+  bottom: 26.17%;
+  left: 9.51%;
+}
+.profile,
+.profile1 {
+  position: absolute;
+  height: 1.17%;
+  width: 2.5%;
+  top: 73.05%;
+  left: 70.69%;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  text-align: center;
+}
+.profile1 {
+  top: 72.56%;
+  left: 10.76%;
+}
+.homeThirdAndroidRightVectoIcon,
+.thirdAndroidRightVector03Icon,
+.thirdAndroidRightVector04Icon {
+  position: absolute;
+  height: 1.47%;
+  width: 1.29%;
+  top: 72.85%;
+  right: 22.11%;
+  bottom: 25.68%;
+  left: 76.6%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.thirdAndroidRightVector03Icon,
+.thirdAndroidRightVector04Icon {
+  height: 1.37%;
+  width: 0.97%;
+  top: 72.95%;
+  right: 17.64%;
+  left: 81.39%;
+}
+.thirdAndroidRightVector04Icon {
+  height: 1.56%;
+  width: 1.11%;
+  top: 72.75%;
+  right: 13.06%;
+  left: 85.83%;
+}
+.aboutApp {
+  position: relative;
+  background-color: var(--color-darkslategray-200);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-antiquewhite-100);
+  font-family: var(--font-almarai);
+}

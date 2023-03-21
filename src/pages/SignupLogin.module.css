@@ -1,0 +1,139 @@
+.backgroundImageSignupPageIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.signUpFor {
+  position: absolute;
+  top: 197px;
+  left: 456px;
+  font-size: 60px;
+  line-height: 90px;
+  font-family: var(--font-sree-krushnadevaraya);
+  color: var(--color-antiquewhite-100);
+  text-align: center;
+  display: inline-block;
+  width: 528px;
+}
+.firstNameRectangle,
+.lastNameRectangle,
+.yourEmailRectangleIcon {
+  position: absolute;
+  top: 445px;
+  left: 507px;
+  border-radius: var(--br-mini);
+  width: 426px;
+  height: 58px;
+}
+.firstNameRectangle,
+.lastNameRectangle {
+  cursor: pointer;
+  border: 1px solid var(--color-antiquewhite-600);
+  padding: 0;
+  background-color: transparent;
+  top: 372px;
+  box-sizing: border-box;
+  width: 204px;
+}
+.lastNameRectangle {
+  left: 729px;
+}
+.passwordRectangle,
+.signUpRectangleIcon {
+  position: absolute;
+  left: 507px;
+  border-radius: var(--br-mini);
+  width: 426px;
+  height: 58px;
+}
+.passwordRectangle {
+  border: 1px solid var(--color-antiquewhite-600);
+  background-color: transparent;
+  top: 518px;
+  box-sizing: border-box;
+}
+.signUpRectangleIcon {
+  top: 672px;
+}
+.firstName,
+.lastName,
+.password,
+.yourEmail {
+  position: absolute;
+  height: 1.37%;
+  width: 7.01%;
+  top: 38.48%;
+  left: 38.82%;
+  letter-spacing: 0.03em;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+}
+.lastName,
+.password,
+.yourEmail {
+  top: 45.61%;
+}
+.lastName,
+.password {
+  top: 52.73%;
+}
+.lastName {
+  top: 38.48%;
+  left: 54.24%;
+}
+.signUp {
+  position: absolute;
+  height: 1.46%;
+  width: 5.56%;
+  top: 67.68%;
+  left: 47.22%;
+  font-size: var(--font-size-base);
+  letter-spacing: -0.03em;
+  display: inline-block;
+  color: var(--color-darkslategray-300);
+  text-align: center;
+}
+.privacyPolicy {
+  color: var(--color-antiquewhite-400);
+}
+.span {
+  color: var(--color-antiquewhite-300);
+}
+.byCreatingAnContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.alreadyHaveAnContainer,
+.byCreatingAnContainer {
+  position: absolute;
+  height: 2.83%;
+  width: 38.26%;
+  top: 59.47%;
+  left: 30.83%;
+  letter-spacing: 0.03em;
+  line-height: 28px;
+  display: flex;
+  align-items: center;
+  color: var(--color-antiquewhite-200);
+}
+.alreadyHaveAnContainer {
+  width: 21.46%;
+  top: 78.32%;
+  left: 39.24%;
+}
+.signuplogin {
+  position: relative;
+  background-color: var(--color-darkslategray-200);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-antiquewhite-300);
+  font-family: var(--font-almarai);
+}

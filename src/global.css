@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Looped+Thai:wght@500;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sree+Krushnadevaraya:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Markazi+Text:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=MuseoModerno:wght@900&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-museomoderno: MuseoModerno;
+  --font-noto-looped-thai: "Noto Looped Thai";
+  --font-sree-krushnadevaraya: "Sree Krushnadevaraya";
+  --font-almarai: Almarai;
+  --font-markazi-text: "Markazi Text";
+
+  /* font sizes */
+  --font-size-36xl: 55px;
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-3xs: 10px;
+  --font-size-mini: 15px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-8xl: 27px;
+  --font-size-6xl: 25px;
+  --font-size-31xl: 50px;
+  --font-size-lg: 18px;
+  --font-size-smi: 13px;
+  --font-size-lgi: 19px;
+  --font-size-3xl: 22px;
+  --font-size-9xl: 28px;
+
+  /* Colors */
+  --color-darkslategray-100: #274641;
+  --color-darkslategray-200: #11342e;
+  --color-darkslategray-300: #10332e;
+  --color-darkslategray-400: #10332d;
+  --color-darkslategray-500: rgba(38, 77, 72, 0.5);
+  --color-antiquewhite-100: #ede6cd;
+  --color-antiquewhite-700: rgba(237, 230, 205, 0.2);
+  --color-antiquewhite-200: rgba(237, 230, 205, 0.6);
+  --color-antiquewhite-300: rgba(237, 230, 205, 0.4);
+  --color-antiquewhite-400: rgba(237, 230, 205, 0.8);
+  --color-antiquewhite-500: rgba(237, 230, 205, 0.5);
+  --color-antiquewhite-600: rgba(237, 230, 205, 0.7);
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-16xl: 35px;
+  --br-mini: 15px;
+  --br-5xs: 8px;
+  --br-6xl: 25px;
+}

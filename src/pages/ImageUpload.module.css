@@ -1,0 +1,142 @@
+.headingContainer {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+  }
+  
+  .resultContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+  .confidenceContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  }
+  
+  .diseased {
+  margin-right: 2rem;
+  }
+  
+  .confidence {
+  margin-left: 2rem;
+  }
+
+.backgroundImageUploadScreenIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+label[for="leaf_image"] {
+  display: inline-block;
+  padding: 0.5em 1em;
+  background-color: #0077cc;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"] {
+  background-color: #006400;
+  color: white;
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #008000;
+}
+
+.fileNameDisplay {
+  font-size: 16px;
+  color: #333;
+  margin-top: 8px;
+}
+
+
+
+.dragDropRectangle {
+  position: absolute;
+  top: 433px;
+  left: 304px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-antiquewhite-700);
+  border: 1px dashed var(--color-antiquewhite-500);
+  box-sizing: border-box;
+  width: 832px;
+  height: 369px;
+}
+.uploadImageText {
+  position: absolute;
+  height: 2.44%;
+  width: 19.58%;
+  top: 26.17%;
+  left: 40.21%;
+  letter-spacing: -0.03em;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.uploadAPicture {
+  position: absolute;
+  width: 35.21%;
+  top: 33.98%;
+  left: 32.36%;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.03em;
+  line-height: 30px;
+  color: var(--color-antiquewhite-600);
+  display: inline-block;
+}
+.browse {
+  text-decoration: underline;
+  color: var(--color-antiquewhite-100);
+}
+.dragDropContainer {
+  position: absolute;
+  width: 25.35%;
+  top: 62.79%;
+  left: 37.29%;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.03em;
+  line-height: 30px;
+  display: inline-block;
+  color: var(--color-antiquewhite-500);
+}
+.uploadIconVector {
+  position: absolute;
+  height: 7%;
+  width: 6%;
+  top: 55.18%;
+  right: 47.01%;
+  bottom: 38.96%;
+  left: 47.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.imageupload {
+  position: relative;
+  background-color: var(--color-darkslategray-200);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 45px;
+  color: var(--color-antiquewhite-100);
+  font-family: var(--font-almarai);
+}
